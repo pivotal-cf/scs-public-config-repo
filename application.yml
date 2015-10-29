@@ -3,7 +3,7 @@ myapp:
   password: letmein01
 
 hello:
-  message: Howdy do!
+  message: Hello there!
 
 eureka:
   client:
