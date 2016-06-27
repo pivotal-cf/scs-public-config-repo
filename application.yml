@@ -5,6 +5,10 @@ myapp:
 hello:
   message: Hiya!
 
+---
+spring:
+  profiles: local
+  
 eureka:
   client:
     serviceUrl:
