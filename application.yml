@@ -3,7 +3,7 @@ myapp:
   password: letmein01
 
 hello:
-  message: Hiya!
+  message: Good day!
 
 ---
 spring:
