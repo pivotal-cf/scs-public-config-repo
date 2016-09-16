@@ -5,6 +5,9 @@ myapp:
 hello:
   message: How's it going??!!
 
+greeting:
+  hello: Hello there you folks!
+
 ---
 spring:
   profiles: local
