@@ -6,7 +6,7 @@ hello:
   message: How's it going??!!
 
 greeting:
-  hello: Hello there you folks!
+  hello: Hello Atlanta!
 
 ---
 spring:
