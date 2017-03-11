@@ -1,2 +1,9 @@
 hello:
   message: Hello, Seattle NFJS!
+
+---
+spring:
+  profiles: cloud
+  
+foo:
+  bar: Hello there, Madison!
