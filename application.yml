@@ -3,7 +3,7 @@ myapp:
   password: letmein01
 
 hello:
-  message: How's it going??!!
+  message: Hello, Columbus!!!
 
 greeting:
   hello: Hello Reston!
