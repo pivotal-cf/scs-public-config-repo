@@ -3,7 +3,7 @@ myapp:
   password: letmein01
 
 hello:
-  message: Hello, Columbus!!!
+  message: Hello, CMH NFJS!!!
 
 greeting:
   hello: Hello Reston!
