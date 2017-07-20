@@ -6,7 +6,7 @@ hello:
   message: Hello, World!!!
 
 greeting:
-  hello: Hello, World!!!
+  hello: Hello, UberConf!!!
   message: '{cipher}AQCJ2dpLfIJg/Ws019ebMmXmv1j3rdrEMgi6uGwbLNB+79LRjibhqfKVzZi7bAjQA1wuA0T+T3pW1D7fNgFQYv5AqXRQ7NyErB11QB0iFf9zR1BYkhgVUh+in4K2qz4S5zGoKx4YgM4PGssrUMNokIFFNvA8T5+LRGycS2UIdZi7XoSQKKF5Pa/jpMInECTLXUjqzAHn39y35AcLgsPd6lvHoykyYDvkjybW0Da0RE+pRLnmol/ukh6e+pFzGRBMy7yTHyxW2YdpZILmLVCjGwiYY/X5CJ5IjESg1sJH2Mwcpl4RidIApvJGAihH6l7qdirRQIeZ94nU5KtvzXZsgA7snrBIcoQrpFNt6/iTSZl0nmAsAaNM/NwutXxaYvbohxs='
 ---
 spring:
