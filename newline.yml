@@ -1,0 +1,2 @@
+newline:
+  privateKey: "-----BEGIN RSA PRIVATE KEY-----\nNOT_A_REAL_PRIVATE_KEY\n-----END RSA PRIVATE KEY-----"
