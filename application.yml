@@ -1,6 +1,6 @@
 myapp:
   who: GitHub configuration repository!!!!!
-  password: letmein01
+  password: s3cr3t
 
 hello:
   message: Hello\nWorld!!!
