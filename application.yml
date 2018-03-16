@@ -24,4 +24,6 @@ spring:
 
 foo:
   bar: Profile test
-
+  
+hello:
+  message: Hello cloud (default app)
