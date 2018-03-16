@@ -26,4 +26,4 @@ foo:
   bar: Profile test
   
 hello:
-  message: Hello cloud (DEFAULT APP!!!!!!!!!)
+  message: Hello cloud (DEFAULT APP)
