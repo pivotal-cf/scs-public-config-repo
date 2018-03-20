@@ -6,7 +6,7 @@ hello:
   message: Hello\nWorld!!!
 
 greeting:
-  hello: Hello, UberConf!!!
+  hello: Hello, World!!!
   message: Yo
 
 ---
