@@ -10,7 +10,7 @@ greeting:
   message: Yo
 
 dummy:
-  property: some-value
+  property: some value tweaked
 ---
 spring:
   profiles: local
