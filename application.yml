@@ -9,6 +9,8 @@ greeting:
   hello: Hello, World!!!
   message: Yo
 
+dummy:
+  property: some-value
 ---
 spring:
   profiles: local
