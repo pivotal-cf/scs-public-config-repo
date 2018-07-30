@@ -1,1 +1,1 @@
-Configuration properties for Spring Cloud demo.
+Configuration properties for Spring Cloud demo. 
