@@ -7,7 +7,7 @@ hello:
 
 greeting:
   hello: Hello, World!!!
-  message: Yo
+  message: Hello, from branch dr-branch
 
 dummy:
   property: some value tweaked
