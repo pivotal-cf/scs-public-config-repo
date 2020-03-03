@@ -5,6 +5,13 @@ myapp:
 hello:
   message: Hello World!!!
 
+encrypted:
+  message: '{cipher}fHfFEjmixNcSga9Y0lZEnBG1nNx89vLCiSJctv5OL2SJ6spwQHc0Wv3DHuFCP7VjzzvnPOYRpPAp
+                    jiaPM8M+LPKqDDZZ7KAiaYYqYqAbRrwaRBcyLZVl+z7cNrnGdFYiZvwglO8xDNHq1Rt9yJfuxZ/5
+                    KmPLBT67610o3MCHLWEKOiXLsQkHdIE0c4y38TLF79GorDcD5i3yZJv//RYWPBx9OhCqfJa6YCNE
+                    qxozMMBnvVkF42YAXI+wdtZ07E4U+ToocuqawTDWHDl027sfT7o7AEd/Hcs/ZEdTnWtmlpl0edoS
+                    9zI+obMbL+tVtGVcO33B+rl8rA+ijZzMO0fETw=='
+
 greeting:
   hello: Hello, World!!!
   message: Yo
