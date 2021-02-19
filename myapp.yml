@@ -3,7 +3,9 @@ hello:
 
 ---
 spring:
-  profiles: cloud
+  config:
+    activate:
+      on-profile: cloud
   
 foo:
   bar: Hello there, D.C.!
