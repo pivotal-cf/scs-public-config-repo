@@ -13,7 +13,9 @@ dummy:
   property: some value tweaked
 ---
 spring:
-  profiles: local
+  config:
+    activate:
+      on-profile: local
   
 eureka:
   client:
@@ -22,7 +24,9 @@ eureka:
 
 ---
 spring:
-  profiles: cloud
+  config:
+    activate:
+      on-profile: cloud
 
 foo:
   bar: Profile test
