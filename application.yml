@@ -11,25 +11,3 @@ greeting:
 
 dummy:
   property: some value tweaked
----
-spring:
-  config:
-    activate:
-      on-profile: local
-  
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
-
----
-spring:
-  config:
-    activate:
-      on-profile: cloud
-
-foo:
-  bar: Profile test
-  
-hello:
-  message: Hello cloud (DEFAULT APP)
