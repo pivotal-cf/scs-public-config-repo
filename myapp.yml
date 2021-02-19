@@ -1,11 +1,2 @@
 hello:
   message: Hello, Reston NFJS!!!
-
----
-spring:
-  config:
-    activate:
-      on-profile: cloud
-  
-foo:
-  bar: Hello there, D.C.!
