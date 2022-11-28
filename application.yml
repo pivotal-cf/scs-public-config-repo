@@ -12,5 +12,5 @@ greeting:
   hello: Hello, World!!!
   message: Yo
 
-dummy:
+sample:
   property: some value tweaked
