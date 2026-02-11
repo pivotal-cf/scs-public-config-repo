@@ -1,0 +1,9 @@
+flags:
+  api-rate-limit:
+    state: ENABLED
+    variants:
+      "low": 100
+      "standard": 500
+      "high": 1000
+      "unlimited": 999999
+    defaultVariant: "unlimited"

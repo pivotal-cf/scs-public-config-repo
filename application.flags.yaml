@@ -1,0 +1,38 @@
+flags:
+  show-greeting:
+    state: ENABLED
+    variants:
+      "on": true
+      "off": false
+    defaultVariant: "on"
+
+  ui-theme:
+    state: ENABLED
+    variants:
+      dark: "dark-mode"
+      light: "light-mode"
+      high-contrast: "hc-mode"
+    defaultVariant: light
+
+  premium-feature:
+    state: ENABLED
+    variants:
+      "enabled": true
+      "disabled": false
+    defaultVariant: "disabled"
+    targeting:
+      if:
+        - ends_with:
+            - var: email
+            - "@example.com"
+        - "enabled"
+        - "disabled"
+
+  api-rate-limit:
+    state: DISABLED
+    variants:
+      "low": 100
+      "standard": 500
+      "high": 1000
+      "unlimited": 999999
+    defaultVariant: "standard"
