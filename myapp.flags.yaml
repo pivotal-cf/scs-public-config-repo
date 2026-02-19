@@ -1,6 +1,6 @@
 flags:
   sample-feature:
-    state: DISABLED
+    state: ENABLED
     variants:
       "on": true
       "off": false
@@ -9,6 +9,6 @@ flags:
       if:
         - ends_with:
             - var: email
-            - "@application.default"
+            - "@myapp.default"
         - "on"
         - "off"
