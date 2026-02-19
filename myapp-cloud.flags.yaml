@@ -1,0 +1,14 @@
+flags:
+  sample-feature:
+    state: ENABLED
+    variants:
+      "yes": true
+      "no": false
+    defaultVariant: "no"
+    targeting:
+      if:
+        - ends_with:
+            - var: email
+            - "@myapp.cloud"
+        - "yes"
+        - "no"
