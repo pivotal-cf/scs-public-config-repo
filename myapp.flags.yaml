@@ -12,3 +12,10 @@ flags:
             - "@myapp.default"
         - "on"
         - "off"
+  another-feature:
+    state: ENABLED
+    variants:
+      user: "user access"
+      manager: "manager access"
+      admin: "admin access"
+    defaultVariant: user
